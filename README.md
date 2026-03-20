@@ -2,10 +2,7 @@
 
 This repository contains real-world Excel projects showcasing dashboard design, data modeling, and interactive analytics.  
 
-
-## 📂 Project
-
-### 1️⃣ Call Centre Performance Dashboard 
+###  Call Centre Performance Dashboard 
 
 An interactive dashboard project built in Excel to analyze call centre operations.  
 
